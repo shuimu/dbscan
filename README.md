@@ -44,4 +44,11 @@ plot(x2, y2, 'r * ')
 
 plot(x1, y1, 'r * ', x2, y2, 'b * ')
 
+save sample1 x1
+
+save sample2 y1
+
+save sample3 x2
+
+save sample4 y2
 
